@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-07-06'
 papers:
   QAnoqosAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -26,7 +26,7 @@ papers:
     title: Optimal health care inventory management using analytics
     year: '2015'
   QAnoqosAAAAJ:LkGwnXOMwfcC:
-    citations: 46
+    citations: 51
     title: MagNet challenge for data-driven power magnetics modeling
     year: '2024'
   QAnoqosAAAAJ:Tyk-4Ss8FVUC:
@@ -38,7 +38,7 @@ papers:
     title: Route examination system
     year: '2021'
   QAnoqosAAAAJ:UebtZRa9Y70C:
-    citations: 7
+    citations: 8
     title: An Empirical Model Informed Neural Network Core Loss Predictor for Soft Magnetic Materials
     year: '2025'
   QAnoqosAAAAJ:W7OEmFMy1HYC:
@@ -66,7 +66,7 @@ papers:
     title: Spoken language understanding on unseen tasks with in-context learning
     year: '2025'
   QAnoqosAAAAJ:roLk4NBRz8UC:
-    citations: 10
+    citations: 11
     title: Improving Few-Shot Cross-Domain Named Entity Recognition by Instruction Tuning a Word-Embedding based Retrieval Augmented Large Language Model
     year: '2024'
   QAnoqosAAAAJ:u-x6o8ySG0sC:
