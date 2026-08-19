@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-19'
 papers:
   QAnoqosAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -11,7 +11,7 @@ papers:
     year: '2017'
   QAnoqosAAAAJ:3fE2CSJIrl8C:
     citations: 1
-    title: Enhancing Customer Service Chatbots with Context-Aware NLU through Selective Attention and Multi-task Learning
+    title: Enhancing customer service chatbots with context-aware nlu through selective attention and multi-task learning
     year: '2024'
   QAnoqosAAAAJ:5nxA0vEk-isC:
     citations: 0
@@ -19,14 +19,14 @@ papers:
     year: '2025'
   QAnoqosAAAAJ:9yKSN-GCB0IC:
     citations: 1
-    title: Lcl filter startup diagnostics for an active front end converter
+    title: LCL filter startup diagnostics for an Active Front End converter
     year: '2016'
   QAnoqosAAAAJ:IjCSPb-OGe4C:
     citations: 2
     title: Optimal health care inventory management using analytics
     year: '2015'
   QAnoqosAAAAJ:LkGwnXOMwfcC:
-    citations: 58
+    citations: 61
     title: MagNet challenge for data-driven power magnetics modeling
     year: '2024'
   QAnoqosAAAAJ:Tyk-4Ss8FVUC:
@@ -38,7 +38,7 @@ papers:
     title: Route examination system
     year: '2021'
   QAnoqosAAAAJ:UebtZRa9Y70C:
-    citations: 10
+    citations: 11
     title: An Empirical Model Informed Neural Network Core Loss Predictor for Soft Magnetic Materials
     year: '2025'
   QAnoqosAAAAJ:W7OEmFMy1HYC:
@@ -46,9 +46,9 @@ papers:
     title: System And Method For Conversational Shopping Based On Machine Learning
     year: '2023'
   QAnoqosAAAAJ:WF5omc3nYNoC:
-    citations: 5
+    citations: 6
     title: Hierarchical text classification using contrastive learning informed path guided hierarchy
-    year: '2025'
+    year: '2023'
   QAnoqosAAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: Systems and methods for utilizing feedback data
@@ -66,7 +66,7 @@ papers:
     title: Spoken language understanding on unseen tasks with in-context learning
     year: '2025'
   QAnoqosAAAAJ:roLk4NBRz8UC:
-    citations: 12
+    citations: 13
     title: Improving Few-Shot Cross-Domain Named Entity Recognition by Instruction Tuning a Word-Embedding based Retrieval Augmented Large Language Model
     year: '2024'
   QAnoqosAAAAJ:u-x6o8ySG0sC:
@@ -75,13 +75,13 @@ papers:
     year: '2018'
   QAnoqosAAAAJ:u5HHmVD_uO8C:
     citations: 0
-    title: Enhanced Startup Diagnostics of LCL Filter for an Active Front-End Converter
+    title: Enhanced Startup Diagnostics of LCL Filter for an Active Front-End Converter.
     year: '2018'
   QAnoqosAAAAJ:ufrVoPGSRksC:
     citations: 0
     title: Building a Few-Shot Cross-Domain Multilingual NLU Model for Customer Care
     year: '2023'
   QAnoqosAAAAJ:zYLM7Y9cAGgC:
-    citations: 2
+    citations: 0
     title: Systems and Methods for Generating a Customized Graphical User Interface
     year: '2024'
