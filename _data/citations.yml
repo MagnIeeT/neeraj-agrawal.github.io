@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-26'
 papers:
   QAnoqosAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -46,7 +46,7 @@ papers:
     title: System And Method For Conversational Shopping Based On Machine Learning
     year: '2023'
   QAnoqosAAAAJ:WF5omc3nYNoC:
-    citations: 6
+    citations: 7
     title: Hierarchical text classification using contrastive learning informed path guided hierarchy
     year: '2023'
   QAnoqosAAAAJ:YsMSGLbcyi4C:
